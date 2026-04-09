@@ -13,16 +13,16 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: PhD Student in Geospatial Analytics 
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
   10,000 citations. Alex is passionate about pushing the boundaries of AI
   while ensuring ethical development.
 
-affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+#affiliations:
+# - name: Meta AI
+#    url: https://ai.meta.com/
 
 links:
   - icon: at-symbol
@@ -47,7 +47,7 @@ interests:
 
 education:
   - degree: PhD Computer Science
-    institution: Stanford University
+    institution: 
     start: 2015-09-01
     end: 2019-06-30
     summary: |
@@ -56,7 +56,7 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
+  - degree: MS Marine, Earth and Atmospheric Sciences
     institution: Carnegie Mellon University
     start: 2013-09-01
     end: 2015-05-31
