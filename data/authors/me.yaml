@@ -40,34 +40,24 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Urban Hydrology
+  - Nature Based Solutions
+  - Geospatial Analysis Systems
+  - Innovative Monitoring Instrumentation
 
 education:
-  - degree: PhD Computer Science
-    institution: 
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
   - degree: MS Marine, Earth and Atmospheric Sciences
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+    institution: North Carolina State University
+    start: 2024-01-10
+    end: 2025-12-31
+  - degree: BS Environmental Engineering
+    institution: Zamorano University
+    start: 2015-01-15
+    end: 2018-12-12
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
+  - role: Environmental Engineering Technician
+    org: Planning Office of the Metropolitan Area of San Salvador
     start: 2020-01-01
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
