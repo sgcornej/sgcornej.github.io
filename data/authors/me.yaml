@@ -91,16 +91,16 @@ skills:
         level: 4
 
 languages:
-  - name: English
+  - name: Spanish
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
+    level: 5
     label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+Fellowships:
+  - title: Global Change Research Fellows Program
+    awarder: Southeast Climate Adaptation Science Center (SE CASC)
+    date: "2026-27"
+    summary: 
     icon: hero/trophy
