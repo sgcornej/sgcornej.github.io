@@ -67,12 +67,13 @@ experience:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
+  - role: Environmental Consultant
+    org: Eco Ingenieros 
     start: 2019-06-01
     end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    summary: | Experience in environmental impact assessment, risk analysis, 
+    and cartography, contributing to sustainable projects through technical 
+    reports that comply with government regulations and client requirements.
 
 skills:
   - name: Technical Skills
