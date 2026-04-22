@@ -1,10 +1,10 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
-name: Sara Cornejo
-  display: MSc Sara Cornejo
+name: 
+  display: Sara Cornejo Zepeda
   given: Sara
-  family: Cornejo
+  family: Cornejo Zepeda
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   
