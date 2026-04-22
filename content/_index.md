@@ -42,11 +42,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My interest in environmental systems and urban resilience began during my training at Zamorano University, where I developed a foundation in environmental engineering through hands-on, applied learning.
+        This interest continued to grow during my time at OPAMSS in El Salvador, where I worked closely with municipalities on projects related to water systems, risk management, and nature-based solutions.
+    
+        These experiences led me to focus on how environmental processes and infrastructure interact, particularly in the context of flooding, watershed dynamics, and urban systems.
+        My current work brings together field data, geospatial analysis, and visualization to explore these connections.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I am especially interested in bridging research and practice, using geospatial tools and environmental data to support more informed and sustainable decision-making in cities and communities.
     design:
       columns: '1'
   - block: collection
