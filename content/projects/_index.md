@@ -12,7 +12,8 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Through geospatial analysis, field data, and visualization, my work addresses environmental challenges related to water systems,
+            urban resilience, and sustainable planning. The following projects reflect this approach in practice.
       filters:
         folders:
           - projects
