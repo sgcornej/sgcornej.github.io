@@ -15,11 +15,11 @@ status:
   icon: "☕️"
 role: PhD Student in Geospatial Analytics 
 bio: | 
-I am a geospatial analyst and environmental researcher focused on water systems, climate impacts, 
-and urban resilience. I am passionate about bridging science and application by combining field data, 
-geospatial tools, and visualization to better understand how infrastructure responds to environmental stressors. 
-I am especially interested in making complex environmental data more accessible to support 
-better decisions in cities and communities.
+  I am a geospatial analyst and environmental researcher focused on water systems, climate impacts, 
+  and urban resilience. I am passionate about bridging science and application by combining field data, 
+  geospatial tools, and visualization to better understand how infrastructure responds to environmental stressors. 
+  I am especially interested in making complex environmental data more accessible to support 
+  better decisions in cities and communities.
 #affiliations:
 # - name: Meta AI
 #    url: https://ai.meta.com/
@@ -72,9 +72,9 @@ experience:
     start: 2019-06-01
     end: 2019-12-31
     summary: | 
-    Experience in environmental impact assessment, risk analysis, 
-    and cartography, contributing to sustainable projects through technical 
-    reports that comply with government regulations and client requirements.
+      Experience in environmental impact assessment, risk analysis, 
+      and cartography, contributing to sustainable projects through technical 
+      reports that comply with government regulations and client requirements.
 
 skills:
   - name: Technical Skills
