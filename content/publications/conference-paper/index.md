@@ -43,18 +43,10 @@ hugoblox:
 
 # Custom links
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
-  - type: slides
-    url: https://www.slideshare.net/
   - type: source
-    url: https://github.com/HugoBlox/kit
-  - type: video
-    url: https://youtube.com
+    url: https://www.worldclim.org/
+   type: source
+    url: https://www.naturalearthdata.com/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
