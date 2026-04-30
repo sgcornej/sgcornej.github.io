@@ -31,7 +31,7 @@ abstract: This project presents an animated visualization of global climate patt
 # Summary. An optional shortened abstract.
 summary: Animated global climate visualization using ArcGIS Pro and monthly raster datasets.
 tags:
-  - Large Language Models
+  - Cartography
 
 # Display this page in the Featured widget?
 featured: true
