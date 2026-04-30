@@ -18,10 +18,10 @@ publication_types: ['paper-conference']
 publication: "Course Assignment – Geospatial Visualization"
 publication_short: ""
 
-abstract: This project presents an animated visualization of global climate patterns using monthly precipitation data. Developed in ArcGIS Pro, the work combines raster datasets from WorldClim with vector layers from Natural Earth to create a consistent and stylized globe representation. The animation highlights seasonal variability in precipitation through time, using standardized symbology and automated export workflows.
+abstract: "This project presents an animated visualization of global climate patterns using monthly precipitation data. Developed in ArcGIS Pro, the work combines raster datasets from WorldClim with vector layers from Natural Earth to create a consistent and stylized globe representation. The animation highlights seasonal variability in precipitation through time, using standardized symbology and automated export workflows."
 
 # Summary. An optional shortened abstract.
-summary:  Animated global climate visualization using ArcGIS Pro and monthly raster datasets.
+summary: "Animated global climate visualization using ArcGIS Pro and monthly raster datasets."
 tags:
    - Cartography
   - Climate Data
