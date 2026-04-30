@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Global Climate Time Series Animation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
