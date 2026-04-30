@@ -1,8 +1,8 @@
 ---
 title: "New Tool Helps Wastewater Treatment Plants Across North Carolina"
 authors: 
-Margaret Wack
-date: "September 18, 2025"
+- "Margaret Wack"
+date: "2025-09-18"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
