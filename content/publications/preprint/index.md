@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "New Tool Helps Wastewater Treatment Plants Across North Carolina"
 authors:
-- me
-date: "2019-04-07T00:00:00Z"
+- "Margaret Wack"
+date: "2025-09-18"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -13,17 +13,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "NC Water Resources Research Institute (WRRI)"
+publication_short: "WRRI"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Wastewater systems are essential but often overlooked infrastructure that play a key role in protecting public health and water quality. This work highlights the development of a fluorescence-based tool designed to help wastewater treatment plants across North Carolina better understand inflow and infiltration (I&I). By analyzing the optical signatures of different water sources, the tool estimates the contribution of rainwater, groundwater, and other inputs into sewer systems, providing new insight into system performance and dilution.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  A fluorescence-based tool developed at NC State helps wastewater treatment plants identify and quantify inflow and infiltration (I&I), offering new insights into how stormwater and groundwater impact sewer systems.
+
 
 tags:
-- Large Language Models
-
+- Wastewater
+- Inflow and Infiltration (I&I)
+- Fluorescence
+- Water Quality
+- Environmental Monitoring
+  
 featured: true
 
 hugoblox:
@@ -43,7 +48,7 @@ links:
 - type: poster
   url: "#"
 - type: source
-  url: "#"
+  url: https://wrri.ncsu.edu/new-tool-helps-wastewater-treatment-plants-across-north-carolina/
 - type: video
   url: https://youtube.com
 - type: custom
@@ -53,7 +58,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: NC State WRRI'
   focal_point: ""
   preview_only: false
 
