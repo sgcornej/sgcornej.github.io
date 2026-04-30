@@ -1,12 +1,12 @@
 ---
-title: 'Global Climate Time Series Animation'
+title: "Global Climate Time Series Animation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - "Sara Cornejo"
-date: '2025-01-24'
+date: "2025-01-30"
 
 
 # Publication type.
@@ -16,7 +16,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "Course Assignment – Geospatial Visualization"
-publication_short: In *ICW*
+publication_short: ""
 
 abstract: This project presents an animated visualization of global climate patterns using monthly precipitation data. Developed in ArcGIS Pro, the work combines raster datasets from WorldClim with vector layers from Natural Earth to create a consistent and stylized globe representation. The animation highlights seasonal variability in precipitation through time, using standardized symbology and automated export workflows.
 
