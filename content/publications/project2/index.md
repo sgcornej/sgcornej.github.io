@@ -62,14 +62,14 @@ This project focuses on designing basemaps at multiple scales, exploring how car
 ### Large Scale (1:24,000)
 Designed in grayscale to emphasize visual hierarchy and feature clarity.
 
-![Map 1](map1.png)
+![Map 1](map1.jpg)
 
 ### Small Scale (1:100,000)
 Incorporates color and generalization to adapt to lower detail.
 
-![Map 2](map2.png)
+![Map 2](map2.jpg)
 
 ### Design Variation
 Alternative styling exploring different visual emphasis and audience.
 
-![Map 3](map3.png)
+![Map 3](map3.jpg)
