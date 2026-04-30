@@ -1,11 +1,8 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- me
-date: "2019-04-07T00:00:00Z"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+title: "New Tool Helps Wastewater Treatment Plants Across North Carolina"
+authors: 
+"Margaret Wack"
+date: "September 18, 2025"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -13,16 +10,20 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "NC Water Resources Research Institute (WRRI)"
+publication_short: "WRRI"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: When is the last time you thought about your sewer system? While often overlooked, sewer systems play a crucial role in transporting and treating wastewater and are an integral part of our infrastructure when it comes to public health.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A fluorescence-based tool developed at NC State helps wastewater treatment plants identify and quantify inflow and infiltration (I&I), offering new insights into how stormwater and groundwater impact sewer systems.
 
 tags:
-- Large Language Models
+- Wastewater
+- Inflow and Infiltration (I&I)
+- Fluorescence
+- Water Quality
+- Environmental Monitoring
 
 featured: true
 
@@ -31,29 +32,13 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/kit
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
 - type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  url: https://wrri.ncsu.edu/new-tool-helps-wastewater-treatment-plants-across-north-carolina/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: "Image credit: NC State WRRI"
   focal_point: ""
   preview_only: false
 
