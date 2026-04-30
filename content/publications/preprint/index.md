@@ -1,7 +1,7 @@
 ---
 title: "New Tool Helps Wastewater Treatment Plants Across North Carolina"
 authors: 
-"Margaret Wack"
+Margaret Wack
 date: "September 18, 2025"
 
 # Publication type.
