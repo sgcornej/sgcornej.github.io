@@ -1,5 +1,5 @@
 ---
-title: 'Global Climate Time Series Animation'
+title: 'Blue Whale Migration Animation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -7,10 +7,6 @@ title: 'Global Climate Time Series Animation'
 authors:
   - me
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2026-01-30T00:00:00Z'
 
@@ -26,12 +22,14 @@ publication_types: ['report']
 publication: Course Assignment - Geospatial Visualization
 publication_short: 
 
-abstract: This project presents an animated visualization of global climate patterns using monthly precipitation data. Developed in ArcGIS Pro, the work combines raster datasets from WorldClim with vector layers from Natural Earth to create a consistent and stylized globe representation.
+abstract: This project visualizes blue whale migration patterns using spatial-temporal data aggregated by month over multiple years. The work combines cartographic design and animation techniques to represent movement patterns across the Pacific Ocean. Using ArcGIS Pro, the project integrates point data, customized symbology, and automated workflows to create a dynamic visualization of whale locations through time.
 
 # Summary. An optional shortened abstract.
-summary: Animated global climate visualization using ArcGIS Pro and monthly raster datasets.
+summary: Animated map showing monthly blue whale migration patterns using ArcGIS Pro.
 tags:
   - Cartography
+  - Animation
+  - ArcGIS Pro
 
 # Display this page in the Featured widget?
 featured: true
@@ -39,9 +37,8 @@ featured: true
 # Custom links
 links:
   - type: source
-    url: https://www.worldclim.org/
-  - type: source
-    url: https://www.naturalearthdata.com/
+    url: https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/how-to-make-this-animated-map-of-blue-whale-migration
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -66,13 +63,14 @@ projects:
 slides: ""
 ---
 
+This project focuses on high-density data visualization, exploring how advanced symbology—such as glows, shadows, and transparency—can be used to reveal patterns in 16 years of blue whale tracking data.
 
-This project explores the use of animation and cartography to visualize global climate patterns through time.
+To represent temporal patterns, the data were aggregated into monthly groups and visualized through a 12-frame animation. The workflow combined cartographic design with automation, using arcpy to filter data and export consistent map layouts for each time step. This approach allows flexibility to adjust styling, temporal grouping, or spatial extent and quickly regenerate the animation.
 
-Using ArcGIS Pro, I created monthly map frames from precipitation raster data and combined them into an animated GIF to show seasonal variation. The workflow included applying consistent symbology across all rasters, designing a globe-style projection, and exporting frames for animation.
+### Animation
+![Blue whale migration](whale_animation.gif)
 
-**Credits:**  
-Activity based on a tutorial by Nelson Schäfer / NelloMaps.  
-Data sources: WorldClim and Natural Earth.
-
-![Global climate animation](output.gif)
+### Sources and Credits
+- Data: Movebank – Blue Whale tracking dataset (Mate et al., 2019)  
+- Design inspiration and workflow: John Nelson (2023), *Make This Blue Whale Migration Animation*  
+- Basemap and bathymetry: Esri Living Atlas
