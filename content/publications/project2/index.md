@@ -1,39 +1,33 @@
 ---
-title: "New Tool Helps Wastewater Treatment Plants Across North Carolina"
+title: "Basemap Design and Cartographic Styling"
 authors:
-- "Margaret Wack"
-date: "2025-09-18"
+- me
+date: "2026-01-30"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-01-30T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NC Water Resources Research Institute (WRRI)"
-publication_short: "WRRI"
+publication: "Course Assignment - Geovisualization"
+publication_short: ""
 
-abstract: Wastewater systems are essential but often overlooked infrastructure that play a key role in protecting public health and water quality. This work highlights the development of a fluorescence-based tool designed to help wastewater treatment plants across North Carolina better understand inflow and infiltration (I&I). By analyzing the optical signatures of different water sources, the tool estimates the contribution of rainwater, groundwater, and other inputs into sewer systems, providing new insight into system performance and dilution.
+abstract: This project explores cartographic design through the development of multiple basemap variations at different spatial scales. Using ArcGIS Pro, the work focuses on applying visual hierarchy, symbolization, and generalization techniques to improve map clarity and communication. The project emphasizes how design choices influence the readability and interpretation of spatial information.
 
 # Summary. An optional shortened abstract.
-summary:  A fluorescence-based tool developed at NC State helps wastewater treatment plants identify and quantify inflow and infiltration (I&I), offering new insights into how stormwater and groundwater impact sewer systems.
+summary:  Cartographic design project focused on basemap styling, visual hierarchy, and multiscale representation in ArcGIS Pro.
 
 
 tags:
-- Wastewater
-- Inflow and Infiltration (I&I)
-- Fluorescence
-- Water Quality
-- Environmental Monitoring
-  
-featured: true
+- Cartography
+- Spatial Analysis
+- ArcGIS Pro
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+featured: true
 
 links:
 - type: source
@@ -42,7 +36,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: NC State WRRI'
+  caption: 'Created as part of Geovisualization Course'
   focal_point: ""
   preview_only: false
 
@@ -52,7 +46,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- cartography-design
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -61,5 +55,21 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+This project focuses on designing basemaps at multiple scales, exploring how cartographic choices affect visual hierarchy and readability.
 
-See the full article here [New Tool Helps Wastewater Treatment Plants Across North Carolina](https://wrri.ncsu.edu/new-tool-helps-wastewater-treatment-plants-across-north-carolina/) 
+## Map Variations
+
+### Large Scale (1:24,000)
+Designed in grayscale to emphasize visual hierarchy and feature clarity.
+
+![Map 1](map1.png)
+
+### Small Scale (1:100,000)
+Incorporates color and generalization to adapt to lower detail.
+
+![Map 2](map2.png)
+
+### Design Variation
+Alternative styling exploring different visual emphasis and audience.
+
+![Map 3](map3.png)
