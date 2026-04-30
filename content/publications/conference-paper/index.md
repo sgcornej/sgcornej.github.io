@@ -78,3 +78,12 @@ slides: ""
 > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This project explores the use of animation and cartography to visualize global climate patterns through time.
+
+Using ArcGIS Pro, I created monthly map frames from precipitation raster data and combined them into an animated GIF to show seasonal variation. The workflow included applying consistent symbology across all rasters, designing a globe-style projection, and exporting frames for animation.
+
+**Credits:**  
+Activity based on a tutorial by Nelson Schäfer / NelloMaps.  
+Data sources: WorldClim and Natural Earth.
+
+![Global climate animation](output.gif)
