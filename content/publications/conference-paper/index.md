@@ -1,22 +1,14 @@
 ---
-title: 'An example conference paper'
+title: 'Global Climate Time Series Animation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - me
-  - Robert Ford
+  - Sara Cornejo
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+date: '2026-01-24T'
 
-date: '2013-07-01T00:00:00Z'
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,13 +19,19 @@ publication_types: ['paper-conference']
 publication: In *HugoBlox Kit Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This project presents an animated visualization of global climate patterns using monthly precipitation data. Developed in ArcGIS Pro, the work combines raster datasets from WorldClim with vector layers from Natural Earth to create a consistent and stylized globe representation. The animation highlights seasonal variability in precipitation through time, using standardized symbology and automated export workflows.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Animated global climate visualization using ArcGIS Pro and monthly raster datasets.
 
 tags:
-  - Large Language Models
+  - Cartography
+  - Climate Data
+  - ArcGIS Pro
+  - Raster Analysis
+  - Animation
+  - Geospatial Visualization
+
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,23 +43,16 @@ hugoblox:
 
 # Custom links
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
-  - type: slides
-    url: https://www.slideshare.net/
   - type: source
-    url: https://github.com/HugoBlox/kit
-  - type: video
-    url: https://youtube.com
+    url: https://www.worldclim.org/
+  - type: source
+    url: https://www.naturalearthdata.com/
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Created as part of a geospatial visualization assignment. Based on a tutorial by Nelson Schäfer / NelloMaps.'
   focal_point: ''
   preview_only: false
 
