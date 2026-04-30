@@ -1,43 +1,60 @@
 ---
-title: "Global Climate Time Series Animation"
+title: "An example journal article"
 authors:
-- Sara Cornejo 
-date: "2026-01-30"
+- me
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Course Assignment"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: This project was completed as part of a geospatial visualization assignment focused on creating animated global climate maps using ArcGIS Pro. The activity used global climate raster data from WorldClim and vector layers from Natural Earth to visualize monthly climate patterns through a globe-style map projection and animated GIF.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary:  A geospatial visualization project using ArcGIS Pro to create a monthly global climate animation from raster climate data.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Cartography
-- Climate Data
-- ArcGIS Pro
-- Geospatial Visualization
-- Raster Analysis
-- Animation
+- Source Themes
 featured: false
 
-links:
-- type: source
-  url: https://www.worldclim.org/
-- type: source
-  url: https://www.naturalearthdata.com/
+hugoblox:
+  ids:
+    arxiv: 1512.04133v1
 
+links:
+  - type: pdf
+    url: http://arxiv.org/pdf/1512.04133v1
+  - type: code
+    url: https://github.com/HugoBlox/kit
+  - type: dataset
+    url: ""
+  - type: poster
+    url: ""
+  - type: project
+    url: ""
+  - type: slides
+    url: https://www.slideshare.net/
+  - type: source
+    url: ""
+  - type: video
+    url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: "Created as part of a course assignment. Activity based on a tutorial by Nelson Schäfer / NelloMaps."
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -55,12 +72,11 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-This project was completed as part of a course assignment on global climate time series visualization. The activity was based on a tutorial by German cartographer Nelson Schäfer / NelloMaps, and the workflow used climate raster data from WorldClim and vector datasets from Natural Earth.
 
-Using ArcGIS Pro, I created a globe-style map layout, applied consistent raster symbology across monthly climate layers, exported individual map frames, and combined them into an animated GIF. The final animation helps show how climate patterns change through the year in a clear and visual way.
+> [!NOTE]
+> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
-**Credits:**  
-Activity based on a tutorial by Nelson Schäfer / NelloMaps.  
-Data sources: WorldClim and Natural Earth.  
+> [!NOTE]
+> Create your slides in Markdown - click the *Slides* button to check out the example.
 
-<img src="output.gif" alt="Global climate time series animation" width="700">
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
