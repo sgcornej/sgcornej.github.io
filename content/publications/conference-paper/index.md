@@ -1,44 +1,55 @@
 ---
-title: "Global Climate Time Series Animation"
+title: 'Global Climate Time Series Animation'
+
+# Authors
+# If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- Sara Cornejo 
-date: "2026-01-30"
+  - Sara Cornejo
+date: '2025-01-24'
+
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "Course Assignment"
-publication_short: ""
+publication: "Course Assignment – Geospatial Visualization"
+publication_short: In *ICW*
 
-abstract: This project was completed as part of a geospatial visualization assignment focused on creating animated global climate maps using ArcGIS Pro. The activity used global climate raster data from WorldClim and vector layers from Natural Earth to visualize monthly climate patterns through a globe-style map projection and animated GIF.
+abstract: This project presents an animated visualization of global climate patterns using monthly precipitation data. Developed in ArcGIS Pro, the work combines raster datasets from WorldClim with vector layers from Natural Earth to create a consistent and stylized globe representation. The animation highlights seasonal variability in precipitation through time, using standardized symbology and automated export workflows.
 
 # Summary. An optional shortened abstract.
-summary:  A geospatial visualization project using ArcGIS Pro to create a monthly global climate animation from raster climate data.
-
+summary:  Animated global climate visualization using ArcGIS Pro and monthly raster datasets.
 tags:
-- Cartography
-- Climate Data
-- ArcGIS Pro
-- Geospatial Visualization
-- Raster Analysis
-- Animation
-featured: false
+   - Cartography
+  - Climate Data
+  - ArcGIS Pro
+  - Raster Analysis
+  - Animation
+  - Geospatial Visualization
 
+# Display this page in the Featured widget?
+featured: true
+
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.5555/123456
+
+# Custom links
 links:
-- type: source
-  url: https://www.worldclim.org/
-- type: source
-  url: https://www.naturalearthdata.com/
-
+  - type: source
+    url: https://www.worldclim.org/
+  - type: source
+    url: https://www.naturalearthdata.com/
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "Created as part of a course assignment. Activity based on a tutorial by Nelson Schäfer / NelloMaps."
-  focal_point: ""
+  caption: "Created as part of a geospatial visualization assignment. Based on a tutorial by Nelson Schäfer / NelloMaps."
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -46,7 +57,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -55,12 +67,13 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-This project was completed as part of a course assignment on global climate time series visualization. The activity was based on a tutorial by German cartographer Nelson Schäfer / NelloMaps, and the workflow used climate raster data from WorldClim and vector datasets from Natural Earth.
+This project was developed as part of a geospatial visualization assignment focused on creating animated climate maps. The workflow involved processing global precipitation raster data, applying consistent symbology across monthly datasets, and designing a globe-style map layout in ArcGIS Pro.
 
-Using ArcGIS Pro, I created a globe-style map layout, applied consistent raster symbology across monthly climate layers, exported individual map frames, and combined them into an animated GIF. The final animation helps show how climate patterns change through the year in a clear and visual way.
+Individual map frames were exported and combined into an animated GIF to visualize seasonal changes in precipitation. The final result emphasizes how cartographic design and animation can be used to communicate temporal environmental patterns.
 
 **Credits:**  
 Activity based on a tutorial by Nelson Schäfer / NelloMaps.  
 Data sources: WorldClim and Natural Earth.  
+GIF creation script adapted from course materials (Felipe Sanchez, 2025).
 
-<img src="output.gif" alt="Global climate time series animation" width="700">
+<img src="output.gif" alt="Global climate animation" width="700">
