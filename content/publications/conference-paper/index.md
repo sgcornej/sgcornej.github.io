@@ -23,8 +23,8 @@ publishDate: '2026-01-30T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *HugoBlox Kit Conference*
-publication_short: In *ICW*
+publication: Course Assignment - Geospatial Visualization
+publication_short: 
 
 abstract: This project presents an animated visualization of global climate patterns using monthly precipitation data. Developed in ArcGIS Pro, the work combines raster datasets from WorldClim with vector layers from Natural Earth to create a consistent and stylized globe representation.
 
