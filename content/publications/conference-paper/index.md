@@ -45,7 +45,7 @@ hugoblox:
 links:
   - type: source
     url: https://www.worldclim.org/
-   type: source
+  - type: source
     url: https://www.naturalearthdata.com/
 
 # Featured image
