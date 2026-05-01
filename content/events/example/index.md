@@ -1,52 +1,38 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
-date: '2017-01-01T00:00:00Z'
+title: "Urban Tree Inventory Workshop Using i-Tree Methodology"
+date: '2023-10-02T00:00:00Z'
 
-event_name: HugoBlox Showcase
-event_url: https://hugoblox.com
+location: San Salvador Metropolitan Area, El Salvador
 
-location: Online & In-Person
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
+summary: Practical workshop on urban tree inventory using the i-Tree methodology, focused on strengthening technical capacities in municipal environmental units.
 abstract: |
-  Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
+  This workshop was organized as part of a collaboration between COAMSS/OPAMSS, the University of El Salvador, and the Department of Natural Resources and Environment. The session brought together technicians from municipal environmental units across the San Salvador Metropolitan Area to build technical skills in urban tree inventory and data collection.
+
+  Participants were trained in the use of the i-Tree methodology, including field data collection using specialized forestry equipment. Measurements included tree height, crown width, and diameter at breast height (DBH), among others.
+
+  The goal of the workshop was to strengthen local technical capacity to support informed decision-making related to urban forestry, including tree management, maintenance, and planning.
+
 
 # Talk start and end times.
-event_start: '2030-06-01T13:00:00Z'
-event_end: '2030-06-01T15:00:00Z'
+event_start: '2023-10-02T9:00:00Z'
+event_end: '2023-10-02T12:00:00Z'
 event_all_day: false
 
 authors:
   - me
 
 tags:
-  - Markdown
-  - Presentations
-  - Open Science
-  - Academic
+  - Urban Forestry
+  - i-Tree
+  - Environmental Management
+  - Community Engagement
 
 featured: true
 
 image:
-  caption: 'Presentation freedom with Markdown'
+  caption: 'Urban forestry workshop with municipal technicians in San Salvador'
   focal_point: Right
 
-links:
-  - icon: brands/github
-    name: Star on GitHub
-    url: https://github.com/HugoBlox/kit
-  - icon: brands/youtube
-    name: Video Tutorial
-    url: https://www.youtube.com/
-  - icon: book-open
-    name: Documentation
-    url: https://docs.hugoblox.com/guides/slides/
 
 # Link to your Markdown slides
 slides: "example"
