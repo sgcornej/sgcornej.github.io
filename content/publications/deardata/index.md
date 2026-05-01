@@ -1,5 +1,5 @@
 ---
-title: 'Global Climate Time Series Animation'
+title: 'A Small Record of Everyday Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -12,10 +12,10 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2026-01-30T00:00:00Z'
+date: '2026-04-30T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-01-30T00:00:00Z'
+publishDate: '2026-04-30T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,22 +26,23 @@ publication_types: ['report']
 publication: Course Assignment - Geospatial Visualization
 publication_short: 
 
-abstract: This project presents an animated visualization of global climate patterns using monthly precipitation data. Developed in ArcGIS Pro, the work combines raster datasets from WorldClim with vector layers from Natural Earth to create a consistent and stylized globe representation.
+abstract: This project explores hand-drawn data visualization through the creation of a multivariate glyph-based design inspired by the Dear Data project. The work focuses on representing informal, self-collected data using visual variables such as shape and color to encode multiple attributes in a single composition.
+
 
 # Summary. An optional shortened abstract.
-summary: Animated global climate visualization using ArcGIS Pro and monthly raster datasets.
+summary: Hand-drawn multivariate visualization using custom glyphs inspired by the Dear Data project.
 tags:
-  - Cartography
-
+  - Data Visualization
+  - Creative Coding
+    
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links
 links:
   - type: source
-    url: https://www.worldclim.org/
-  - type: source
-    url: https://www.naturalearthdata.com/
+    url: https://www.dear-data.com/theproject
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,14 +66,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-
-This project explores the use of animation and cartography to visualize global climate patterns through time.
-
-Using ArcGIS Pro, I created monthly map frames from precipitation raster data and combined them into an animated GIF to show seasonal variation. The workflow included applying consistent symbology across all rasters, designing a globe-style projection, and exporting frames for animation.
-
-**Credits:**  
-Activity based on a tutorial by Nelson Schäfer / NelloMaps.  
-Data sources: WorldClim and Natural Earth.
-
-![Global climate animation](output.gif)
