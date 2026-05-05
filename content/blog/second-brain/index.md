@@ -10,7 +10,7 @@ tags:
   - Sustainable Development Goals
 
 image:
-  caption: 'Metro Atlas – OPAMSS'
+  caption: "Metro Atlas - OPAMSS"
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
@@ -45,7 +45,7 @@ The second section focuses on the 17 Sustainable Development Goals, combining sp
 - Integration of datasets aligned with SDG indicators  
 - Visualization of urban and environmental patterns  
 
-##  Full Publication
+## Full Publication
 [View full document](https://opamss.org.sv/wp-content/uploads/2021/10/Metro-Atlas.pdf)
 
 
@@ -55,7 +55,7 @@ The second section focuses on the 17 Sustainable Development Goals, combining sp
 [![Map 2](atlas2.png)](atlas2.png)
 [![Map 3](atlas3.png)](atlas3.png)
 
-## 🌍 Context
+## Context
 
 This work was developed as part of OPAMSS efforts to support metropolitan planning through data-driven analysis, providing a spatial framework to understand urban dynamics and inform policy aligned with the Sustainable Development Goals.
 
