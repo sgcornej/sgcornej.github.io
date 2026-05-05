@@ -1,70 +1,63 @@
 ---
-title: ⚡️ Turn Jupyter Notebooks into Blog Posts
-summary: Publish your data science and research directly from Jupyter Notebooks. No screenshots required.
-date: 2024-07-15
+title: 🌿 Gardens for Biodiversity
+summary: Illustrated guide for selecting native and pollinator-friendly plant species to support urban biodiversity.
 authors:
   - me
 tags:
-  - Hugo Blox
-  - Jupyter
-  - Open Science
-  - Tutorials
+  - Biodiversity
+  - Urban Ecology
+  - Green Infrastructure
+  - Environmental Planning
 cover:
   # image: cover.jpg  # Auto-detected from cover image in this folder
   icon:
-    name: "📔"
+    name: "🌱"
 image:
-  caption: "Image credit: [HugoBlox](https://hugoblox.com)"
+  caption: "Gardens for Biodiversity – OPAMSS"
   focal_point: Center
   placement: 1
 content_meta:
   trending: true
 ---
 
-As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.
+This publication presents an illustrated guide for selecting native and melliferous plant species that support pollinator populations in urban environments.
 
-Hugo Blox changes that. With the `{{</* notebook */>}}` shortcode, you can render your actual `.ipynb` files directly as beautiful, interactive blog posts or project pages. Keep your code, outputs, and narrative in one place.
+Developed as part of OPAMSS initiatives, the guide provides practical recommendations for designing green spaces that enhance biodiversity and ecosystem services in the San Salvador Metropolitan Area. It focuses on species selection based on ecological function, adaptability, and their role in supporting pollinator insects.
+
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Why publish notebooks?
+## Overview
 
-> [!TIP]
-> **Reproducible Research**: By publishing the actual notebook, you allow others to download and run your code, verifying your results and building upon your work.
+Urban green spaces play an important role in maintaining ecological balance within cities. This guide was developed to support the integration of biodiversity into urban design by promoting the use of native and pollinator-friendly plant species.
 
-- **No more screenshots** – Render crisp code and vector plots directly from your source.
-- **Theme consistent** – Notebooks automatically adapt to your site's theme (including dark mode).
-- **Flexible sourcing** – Display notebooks from your `assets/` folder, page bundles, or even directly from a remote GitHub URL.
-- **Interactive** – Users can copy code blocks or download the full notebook to run locally.
+It serves as a practical tool for municipalities, planners, and communities interested in implementing nature-based solutions through vegetation design.
 
-## Example: Data Science Workflow
+## My Contribution
 
-Below is a live example of a notebook rendered right here in this post. Notice how the markdown, code, and outputs (text, HTML, and JSON) are all preserved and styled.
+- Development of technical content and species selection criteria  
+- Support in structuring the guide for practical implementation  
+- Contribution to visual and communication materials  
 
-{{< notebook
-    src="hugoblox-onboarding.ipynb"
-    title="Launch Readiness Analysis"
-    show_metadata=true
-    line_numbers=true
-    dense=false
-    download_label="Download notebook"
-    show_outputs=true
->}}
 
-## How to add a notebook
+## Full Publication
 
-1. **Save your notebook.** Place your `.ipynb` file in `assets/notebooks/` (for global access) or inside a page bundle (like `content/blog/my-post/analysis.ipynb`).
-2. **Add the shortcode.** In any Markdown page, simply use:
-   `{{</* notebook src="analysis.ipynb" */>}}`
-3. **Customize.** You can hide code cells for non-technical audiences (`show_code=false`) or just show the output (`show_outputs=true`).
+[View full document](https://opamss.org.sv/wp-content/uploads/2023/01/Jardines-para-la-Biodiversidad.pdf)
 
-> [!IMPORTANT]
-> Hugo Blox respects your privacy. Notebook rendering happens statically at build time—no third-party services required.
+## 🖼️ Outreach and Communication
 
-## Next steps
+As part of this work, I shared insights on the importance of native and melliferous plant species through public communication.
 
-- **Try it out:** Drop one of your existing notebooks into this site and see how it looks.
-- **Link your papers:** Use the Embed shortcode to link your notebook to your latest arXiv preprint or GitHub repository.
-- **Get help:** Join the community on [Discord](https://discord.gg/z8wNYzb) or check the [documentation](https://docs.hugoblox.com).
+Native flowering plants play a key role beyond their aesthetic value, contributing to biodiversity conservation by supporting pollinators such as bees and other insects. These species provide essential sources of nectar and pollen, helping sustain ecological interactions within urban environments.
 
-Happy researching! 🚀
+Through this communication effort, the goal was to raise awareness about the role of vegetation in urban ecosystems and promote the use of native species in landscape design and environmental planning.
+
+![Page 1](image1.png)
+
+![Page 2](image2.png)
+
+
+## Context
+
+This work was developed as part of OPAMSS efforts to strengthen urban environmental planning and promote nature-based solutions across the San Salvador Metropolitan Area, supporting biodiversity conservation and sustainable city development.
+
