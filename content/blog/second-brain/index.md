@@ -1,14 +1,16 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Metro Atlas: San Salvador Metropolitan Area
+summary: Cartographic production and spatial analysis of territorial dynamics across 14 municipalities, aligned with the Sustainable Development Goals.
+date: 2021-10-01
 authors:
   - me
 tags:
-  - Second Brain
-  - Markdown
+  - Cartography
+  - Spatial Analysis
+  - Sustainable Development Goals
+
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Metro Atlas – OPAMSS'
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
@@ -26,115 +28,34 @@ cover:
     name: "✨"
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+The Metro Atlas presents a comprehensive spatial analysis of territorial dynamics across the 14 municipalities that make up the San Salvador Metropolitan Area (AMSS).
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+This publication supports the implementation of the 2030 Agenda and the Sustainable Development Goals (SDGs), addressing key challenges such as economic development, social inequality, and environmental degradation through a spatial lens.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+## Overview
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+The Atlas is structured in two main sections. The first introduces the metropolitan area through thematic maps that illustrate population growth and urban development patterns.
 
-## Mindmaps
+The second section focuses on the 17 Sustainable Development Goals, combining spatial data with official statistics to analyze how each goal is expressed across the territory. Each section integrates cartography, graphs, and key indicators to support planning and decision-making.
 
-Hugo Blox supports a Markdown extension for mindmaps.
+## My Contribution
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+- Cartographic production and map design  
+- Spatial analysis of territorial dynamics  
+- Integration of datasets aligned with SDG indicators  
+- Visualization of urban and environmental patterns  
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+##  Full Publication
+[View full document](https://opamss.org.sv/wp-content/uploads/2021/10/Metro-Atlas.pdf)
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - netlify
-  - netlify-cms
-  - slides
-```
-</code>
-</pre>
-</div>
+## Selected Maps
 
-renders as
+[![Map 1](atlas1.png)](atlas1.png)
+[![Map 2](atlas2.png)](atlas2.png)
+[![Map 3](atlas3.png)](atlas3.png)
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - netlify
-  - netlify-cms
-  - slides
-```
+## 🌍 Context
 
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
+This work was developed as part of OPAMSS efforts to support metropolitan planning through data-driven analysis, providing a spatial framework to understand urban dynamics and inform policy aligned with the Sustainable Development Goals.
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/kit)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/kit)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-Use the `> [!NOTE]` syntax to create a callout.
-
-```markdown
-> [!NOTE]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-```
-
-renders as
-
-> [!NOTE]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-> [!WARNING]
-> A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-
-## Did you find this page helpful? Consider sharing it 🙌
