@@ -52,9 +52,11 @@ Native flowering plants play a key role beyond their aesthetic value, contributi
 
 Through this communication effort, the goal was to raise awareness about the role of vegetation in urban ecosystems and promote the use of native species in landscape design and environmental planning.
 
-![Page 1](image1.png)
+![Page 1](image1.jpg)
 
-![Page 2](image2.png)
+![Page 2](image2.jpg)
+
+![Page 3](image3.jpg)
 
 
 ## Context
