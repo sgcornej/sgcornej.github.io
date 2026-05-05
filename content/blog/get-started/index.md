@@ -1,7 +1,7 @@
 ---
 title: Guide for the Implementation of Community Gardens
 summary: Methodological framework for building technical and pedagogical capacity in community-based agro-food systems.
-date: 2023-10-27
+date: 2022-05-01
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
