@@ -1,6 +1,6 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: Metro Atlas
+summary: Cartographic production and spatial analysis of territorial dynamics across 14 municipalities, aligned with the Sustainable Development Goals.
 date: 2021-10-01
 authors:
   - me
