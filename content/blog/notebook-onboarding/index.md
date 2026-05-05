@@ -3,6 +3,9 @@ title: 🌿 Gardens for Biodiversity
 summary: Illustrated guide for selecting native and pollinator-friendly plant species to support urban biodiversity.
 authors:
   - me
+
+date: "2023-01-01"
+
 tags:
   - Biodiversity
   - Urban Ecology
