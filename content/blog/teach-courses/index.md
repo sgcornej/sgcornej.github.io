@@ -65,15 +65,13 @@ Videos may be added to a page by either placing them in your `assets/media/` med
 
     {{</* video src="my_video.mp4" controls="yes" */>}}
 
-## Podcast
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
-    {{</* audio src="ambient-piano.mp3" */>}}
+## 🎧 Podcast Episode
 
-Try it out:
+This podcast episode expands on the ideas presented in this project, focusing on the role of native species and urban vegetation in supporting biodiversity and sustainable cities.
 
-{{< audio src="ambient-piano.mp3" >}}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0cFBdKrMt2YqzOLwzQGUOC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Test students
 
