@@ -39,5 +39,5 @@ It serves as a practical tool for planners, municipalities, and designers involv
 
 ### Full Publication
 
-[View full document](https://opamss.org.sv/wp-content/uploads/2021/10/Catalogo-para-la-seleccion-de-especies-arboreas-y-vegetativ)
+[View full document](https://opamss.org.sv/wp-content/uploads/2021/10/Catalogo-para-la-seleccion-de-especies-arboreas-y-vegetativas.pdf)
 
