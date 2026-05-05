@@ -43,7 +43,6 @@ It serves as a practical tool for supporting community-based initiatives that in
 
 [View full document](https://opamss.org.sv/wp-content/uploads/2022/03/GuiaHuertos.pdf)
 
-## Gallery
 
 ## Gallery
 
@@ -55,5 +54,4 @@ It serves as a practical tool for supporting community-based initiatives that in
 
 ## Context
 
-This work was developed as part of OPAMSS efforts to promote sustainable urban development through community-based initiatives, supporting local capacity building and the implementation of nature-based solutions in the San Salvador Metropolitan Area. :contentReference[oaicite:0]{index=0}
-
+This work was developed as part of OPAMSS efforts to promote sustainable urban development through community-based initiatives, supporting local capacity building and the implementation of nature-based solutions in the San Salvador Metropolitan Area.
