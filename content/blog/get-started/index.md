@@ -43,11 +43,9 @@ It serves as a practical tool for supporting community-based initiatives that in
 
 [View full document](https://opamss.org.sv/wp-content/uploads/2022/03/GuiaHuertos.pdf)
 
-## Selected Pages
+## Gallery
 
-![Page 1](garden1.png)
-
-![Page 2](garden2.png)
+{{< gallery album="community-gardens" >}}
 
 ## Context
 
