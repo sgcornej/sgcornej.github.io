@@ -45,7 +45,13 @@ It serves as a practical tool for supporting community-based initiatives that in
 
 ## Gallery
 
-{{< gallery album="community-gardens" >}}
+## Gallery
+
+[![Page 1](garden1.jpg)](garden1.jpg)
+[![Page 2](garden2.jpg)](garden2.jpg)
+
+[![Page 3](garden3.jpg)](garden3.jpg)
+[![Page 4](garden4.jpg)](garden4.jpg)
 
 ## Context
 
