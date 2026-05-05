@@ -51,9 +51,10 @@ The second section focuses on the 17 Sustainable Development Goals, combining sp
 
 ## Selected Maps
 
-[![Map 1](atlas1.png)](atlas1.png)
-[![Map 2](atlas2.png)](atlas2.png)
-[![Map 3](atlas3.png)](atlas3.png)
+[![Map 1](atlas1.jpg)](atlas1.jpg)
+[![Map 2](atlas2.jpg)](atlas2.jpg)
+[![Map 3](atlas3.jpg)](atlas3.jpg)
+[![Map 4](atlas4.jpg)](atlas4.jpg)
 
 ## Context
 
