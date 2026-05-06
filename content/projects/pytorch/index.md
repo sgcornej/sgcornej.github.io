@@ -31,6 +31,6 @@ This project explores how green roofs can function as nature-based solutions wit
 
 ## Video
 
-{{< youtube icg6iOcE3zI >}}
+{{< video src="https://www.youtube.com/watch?v=icg6iOcE3zI" >}}
 
 <!--more-->
